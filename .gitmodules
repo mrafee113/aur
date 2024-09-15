@@ -1,0 +1,108 @@
+[submodule "asusctl"]
+	path = asusctl
+	url = https://aur.archlinux.org/asusctl
+[submodule "beancount"]
+	path = beancount
+	url = https://aur.archlinux.org/beancount
+[submodule "cheat"]
+	path = cheat
+	url = https://aur.archlinux.org/cheat
+[submodule "cheat-bin"]
+	path = cheat-bin
+	url = https://aur.archlinux.org/cheat-bin
+[submodule "cloudflare-warp-bin"]
+	path = cloudflare-warp-bin
+	url = https://aur.archlinux.org/cloudflare-warp-bin
+[submodule "ctpv-git"]
+	path = ctpv-git
+	url = https://aur.archlinux.org/ctpv-git
+[submodule "debianutils"]
+	path = debianutils
+	url = https://aur.archlinux.org/debianutils
+[submodule "fvm"]
+	path = fvm
+	url = https://aur.archlinux.org/fvm
+[submodule "gamescope-git"]
+	path = gamescope-git
+	url = https://aur.archlinux.org/gamescope-git
+[submodule "gamescope-plus"]
+	path = gamescope-plus
+	url = https://aur.archlinux.org/gamescope-plus
+[submodule "gnome-shell-pomodoro"]
+	path = gnome-shell-pomodoro
+	url = https://aur.archlinux.org/gnome-shell-pomodoro
+[submodule "google-chrome"]
+	path = google-chrome
+	url = https://aur.archlinux.org/google-chrome
+[submodule "hakuneko-desktop-bin"]
+	path = hakuneko-desktop-bin
+	url = https://aur.archlinux.org/hakuneko-desktop-bin
+[submodule "hiddify-next"]
+	path = hiddify-next
+	url = https://aur.archlinux.org/hiddify-next
+[submodule "hiddify-next-appimage"]
+	path = hiddify-next-appimage
+	url = https://aur.archlinux.org/hiddify-next-appimage
+[submodule "hiddify-next-appimage-1.1.1.1"]
+	path = hiddify-next-appimage-1.1.1.1
+	url = https://aur.archlinux.org/hiddify-next-appimage
+[submodule "i3lock-color"]
+	path = i3lock-color
+	url = https://aur.archlinux.org/i3lock-color
+[submodule "i3-swallow-git"]
+	path = i3-swallow-git
+	url = https://aur.archlinux.org/i3-swallow-git
+[submodule "jmtpfs"]
+	path = jmtpfs
+	url = https://aur.archlinux.org/jmtpfs
+[submodule "mcomix"]
+	path = mcomix
+	url = https://aur.archlinux.org/mcomix
+[submodule "mupdf-git"]
+	path = mupdf-git
+	url = https://aur.archlinux.org/mupdf-git
+[submodule "nekoray"]
+	path = nekoray
+	url = https://aur.archlinux.org/nekoray
+[submodule "nekoray-bin"]
+	path = nekoray-bin
+	url = https://aur.archlinux.org/nekoray-bin
+[submodule "nekoray-git"]
+	path = nekoray-git
+	url = https://aur.archlinux.org/nekoray-git
+[submodule "pa-applet-git"]
+	path = pa-applet-git
+	url = https://aur.archlinux.org/pa-applet-git
+[submodule "run-mailcap"]
+	path = run-mailcap
+	url = https://aur.archlinux.org/run-mailcap
+[submodule "run-mailcap-rs-git"]
+	path = run-mailcap-rs-git
+	url = https://aur.archlinux.org/run-mailcap-rs-git
+[submodule "rxvt-unicode-truecolor-wide-glyphs"]
+	path = rxvt-unicode-truecolor-wide-glyphs
+	url = https://aur.archlinux.org/rxvt-unicode-truecolor-wide-glyphs
+[submodule "sing-geoip"]
+	path = sing-geoip
+	url = https://aur.archlinux.org/sing-geoip
+[submodule "sing-geosite"]
+	path = sing-geosite
+	url = https://aur.archlinux.org/sing-geosite
+[submodule "todotxt"]
+	path = todotxt
+	url = https://aur.archlinux.org/todotxt
+[submodule "visual-studio-code-bin"]
+	path = visual-studio-code-bin
+	url = https://aur.archlinux.org/visual-studio-code-bin
+[submodule "warp-plus-bin"]
+	path = warp-plus-bin
+	url = https://aur.archlinux.org/warp-plus-bin
+[submodule "xkblayout-state-git"]
+	path = xkblayout-state-git
+	url = https://aur.archlinux.org/xkblayout-state-git
+[submodule "xkblayout-state-git.bak"]
+	path = xkblayout-state-git.bak
+	url = https://aur.archlinux.org/xkblayout-state-git
+[submodule "yaru"]
+	path = yaru
+	url = https://aur.archlinux.org/yaru
